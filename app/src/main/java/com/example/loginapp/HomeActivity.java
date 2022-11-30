@@ -18,3 +18,4 @@ public class HomeActivity extends AppCompatActivity {
     private static String username;
     private static String password;
 }
+
